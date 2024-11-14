@@ -1,4 +1,4 @@
 Biomass calculation (and more) for the CBRMS database.
 
-![Diagram](https://drive.google.com/file/d/1WU7KxD9EMkfbJPcdTUlPpSB6csUtnIOr/view?usp=drive_link)
+![Diagram](https://github.com/ZakiRMuc/CBRMS/blob/main/ERD%20CBRMS-Page-1.drawio.svg)
 
